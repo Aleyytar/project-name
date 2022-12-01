@@ -39,6 +39,7 @@ export default {
 
 <style scoped>
   .top_main{
+    padding-bottom: 50px;
     width: 100%;
   }
   .top{

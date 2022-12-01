@@ -2,7 +2,7 @@
 
 
 <script setup>
-
+import headerBottom from './components/headerbottom.vue'
 import banner from './components/banner.vue'
 
 
