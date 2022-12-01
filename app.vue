@@ -10,6 +10,8 @@ import banner2 from './components/banner2.vue'
 import ccategory from './components/category.vue'
 import item from './components/item.vue'
 import bottomBanner from './components/bottomBanner.vue'
+import footers from './components/footers.vue'
+import giris from './components/giris.vue'
 
 
 </script>
