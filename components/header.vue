@@ -24,13 +24,13 @@ export default {
           <img  src="https://kigili.akinoncdn.com/static_omnishop/kig522/assets/img/logo.png" alt="">
         </section>
         <section class="search">
-          <input type="text" placeholder="ara"><i class='bx bx-search-alt-2'></i>
+          <input type="text" placeholder="ara"><img style="height: 30px;" src="./icons/icons8-search-30.png" alt="">
         </section>
         <section class="right_bar">
           <li><a href="#" @click="$emit('login-form', 1)">Giriş Yap</a></li>
           <li class="line"></li>
           <li><a href="#" @click="$emit('login-form', 3)">Üye Ol</a></li>
-          <li><a href="#"><i class='bx bxs-basket' ></i></a></li>
+          <li><a href="#"><a href="^#"><img src="./icons/icons8-shopping-bag-15.png" alt="bag"></a></a></li>
         </section>
     </section>
   </section>
@@ -60,8 +60,10 @@ export default {
     }
  }
   .main_header{
+    display: flex;
     width: 100%;
     height: 90px;
+    align-items: stretch;
   }
 .header_top{
   display: flex;
@@ -76,8 +78,10 @@ export default {
 
 }
 .header_top .search{
-  width: 20%;
-  display: flex;
+    width: 20%;
+    display: flex;
+    align-content: stretch;
+    align-items: flex-end;
 }
 .header_top .search input{
   width: 100%;
