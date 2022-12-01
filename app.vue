@@ -2,9 +2,12 @@
 
 
 <script setup>
+
 import headerBottom from './components/headerbottom.vue'
 import banner from './components/banner.vue'
 import banner2 from './components/banner2.vue'
+import ccategory from './components/category.vue'
+
 
 
 </script>
