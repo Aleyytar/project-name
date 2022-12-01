@@ -2,12 +2,13 @@
 
 
 <script setup>
-
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
 import headerBottom from './components/headerbottom.vue'
 import banner from './components/banner.vue'
 import banner2 from './components/banner2.vue'
 import ccategory from './components/category.vue'
-
+import item from './components/item.vue'
 
 
 </script>
