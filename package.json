@@ -8,12 +8,17 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
+    "jquery": "^3.6.1",
     "node-sass": "^8.0.0",
     "nuxt": "3.0.0",
+    "popper.js": "^1.16.1",
     "sass-loader": "^13.2.0"
   },
   "dependencies": {
+    "@vueuse/core": "^9.6.0",
     "bootstrap": "^5.2.3",
-    "bootstrap-vue": "^2.23.1"
+    "bootstrap-vue": "^2.23.1",
+    "vue": "^3.2.45"
   }
 }

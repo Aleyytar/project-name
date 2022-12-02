@@ -2,6 +2,8 @@
 
 
 <script setup>
+
+
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import headerBottom from './components/headerbottom.vue'
@@ -14,8 +16,8 @@ import footers from './components/footers.vue'
 import giris from './components/giris.vue'
 import uyeol from './components/uyeol.vue'
 
-
 </script>
+
 <script>
 import MainHeader from './components/header.vue'
 export default {
@@ -26,6 +28,7 @@ export default {
       uyeole: false,
     }
   },
+  
   methods: {
     login(sonuc) {
       if(sonuc == 1){
