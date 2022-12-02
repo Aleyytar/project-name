@@ -2,19 +2,19 @@
 <section class="footer_main">
     <section class="footer_top">
         <section class="per">
-            <i class='bx bx-fast-forward' ></i> Hızlı Gönderi
+            <img  class="imgc" src="./icons/icons8-timer-15.png" alt=""> Hızlı Gönderi
         </section>
         <section class="per">
-            <i class='bx bx-shape-circle' ></i> Mağazadan Değişim
+            <img class="imgc" src="./icons/icons8-needle-15.png" alt="">Mağazadan Değişim
         </section>
         <section class="per">
-            <i class='bx bx-hive' ></i> Mağazada Ücretsiz Tadilat
+           <img class="imgc" src="./icons/icons8-open-box-24.png" alt=""> Mağazada Ücretsiz Tadilat
         </section>
         <section class="per">
-            <i class='bx bxs-package' ></i> Mağazadan Ücretsiz Teslimat
+            <img class="imgc" src="./icons/icons8-calendar-15.png" alt=""> Mağazadan Ücretsiz Teslimat
         </section>
         <section class="per">
-            <i class='bx bxs-door-open' ></i> Kolay İade
+            <img class="imgc" src="./icons/icons8-needle-15.png" alt=""> Kolay İade
         </section>
     </section>
     <section>
@@ -68,7 +68,7 @@
 .footer_top{
     width:100%;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 .per{
     margin-left:55px;
@@ -101,5 +101,8 @@
 }
 .abdu{
     width: 254px !important;
+}
+.imgc{
+
 }
 </style>
