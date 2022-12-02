@@ -287,7 +287,7 @@ import SupportIcon from './icons/IconSupport.vue'
                 </div>
               </div>
               <div class="dropdown">
-                <button class="dropbtn" style="color:blue; font-size:large"> Home </button>
+                <button class="dropbtn" style="color:blue; font-size:large; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif"> Home </button>
                 <div class="dropdown-content">
                     <div class="item1">
                         <a href="#"> 2 gömlek</a>
@@ -307,14 +307,14 @@ import SupportIcon from './icons/IconSupport.vue'
                         <a href="#">Liasdnk 3</a>
                     </div>
                     <div class="item1 img">
-                        <img src="https://kigili.akinoncdn.com/cms/2022/11/29/9cd445c9-3649-4d82-9a1b-96cfc5f638d9.png" alt="">
+                        <img src="https://kigili.akinoncdn.com/cms/2022/10/25/71b6a103-5faa-4792-a017-21b62ac98c76.png" alt="">
                         <p style="margin-top:5px; font-weight:bold;font-size:18px;">Takım Elbise Sepetin Yarısı ></p>
                         <p style="color:gray;">Kampanyadan yararlanın</p>
                     </div>
                 </div>
               </div>
               <div class="dropdown">
-                <button class="dropbtn" style="color:red; font-size:large">KAMPANYALAR</button>
+                <button class="dropbtn" style="color:red; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ">KAMPANYALAR</button>
                 <div class="dropdown-content">
                     <div class="item1">
                         <a href="#">Link sdaasd1</a>

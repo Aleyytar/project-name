@@ -15,9 +15,13 @@ h1{
     padding-left: 15px;
 }
 .kampanya{
+    display: flex;
     width: 100%;
     text-align: center;
+    justify-content: space-evenly;
 }
+
+
 .kampanya[data-v-1e142842] {
     display: flex;
     width: 100%;

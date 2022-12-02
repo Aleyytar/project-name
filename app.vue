@@ -12,6 +12,7 @@ import item from './components/item.vue'
 import bottomBanner from './components/bottomBanner.vue'
 import footers from './components/footers.vue'
 import giris from './components/giris.vue'
+import uyeol from './components/uyeol.vue'
 
 
 </script>
