@@ -3,7 +3,6 @@
 
 <script setup>
 
-
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import headerBottom from './components/headerbottom.vue'
