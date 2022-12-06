@@ -32,16 +32,18 @@
                     <img src="https://avatars.mds.yandex.net/i?id=47ffbbf67415aa93952adb67abf7ba2a7a3ba845-4935356-images-thumbs&n=13&exp=1" alt="">
                 </section>
                 <section class="footer">
-                    <h4>Kurumsal</h4>
+                    <h4>Yardım</h4>
                     <ul>
-                        <li>Hakkımızda</li>
-                        <li>Franchising</li>
-                        <li>Kurumsal Satış</li>
-                        <li>İnsan Kaynakları</li>
-                        <li>Özel Dikim</li>
-                        <li>Çeyiz & Home Bayilik</li>
+                        <li> <a href="#">Kampanya Bilgilendirme</a></li>
+                        <li><a href="#">Ödeme Seçenekleri</a></li>
+                        <li><a href="#">Teslimat</a></li>
+                        <li><a href="#">İade ve Değişim</a></li>
+                        <li><a href="#">Sıkça Sorulan Sorular</a></li>
+                        <li><a href="#">Takım Elbise Kalıpları</a></li>
+                        <li><a href="#">Ceket Kalıpları</a></li>
+                        <li><a href="#">Bedenini Bul</a></li>
                     </ul>
-                    <img src="https://avatars.mds.yandex.net/i?id=47ffbbf67415aa93952adb67abf7ba2a7a3ba845-4935356-images-thumbs&n=13&exp=1" alt="">
+                    
                 </section>
                 <section class="footer">
                     <img class="abdu" src="https://www.upload.ee/image/14662288/dene.png" alt="">
