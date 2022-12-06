@@ -20,7 +20,7 @@ export default {
   <section class="top">500 TL ve  Üzeri Alışverişlerde Ücretsiz Kargo</section>
   <section class="main_header">
     <section class="header_top">
-        <section @click="$emit('login-form', 2)" class="logo">
+        <section @click="$emit('login-form', 2)" class="logo"><a href="#"></a>
           <img  src="https://kigili.akinoncdn.com/static_omnishop/kig522/assets/img/logo.png" alt="">
         </section>
         <section class="search">

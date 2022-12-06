@@ -40,7 +40,7 @@
        text-align: center;
     }
     p{
-        text-align: start;
+        text-align:center;
     }
         </style>
         

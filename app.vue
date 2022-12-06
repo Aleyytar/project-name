@@ -9,6 +9,7 @@ import headerBottom from './components/headerbottom.vue'
 import banner from './components/banner.vue'
 import banner2 from './components/banner2.vue'
 import ccategory from './components/category.vue'
+import banner3 from './components/banner3.vue'
 import item from './components/item.vue'
 import bottomBanner from './components/bottomBanner.vue'
 import footers from './components/footers.vue'
@@ -59,6 +60,7 @@ export default {
         <banner />
         <banner2 />
         <ccategory />
+        <banner3 />
         <item />
         <bottomBanner />
       </div>

@@ -47,9 +47,7 @@
         </section>
     
     </section>
-    <section class="image">
-        <img class="ker" src="https://kigili.akinoncdn.com/cms/2022/11/29/ed899288-ca43-4ee5-8000-b9b3f2691acc.png" alt="">
-    </section>
+   
     
     
     </template>

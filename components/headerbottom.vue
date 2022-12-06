@@ -10,6 +10,34 @@ import SupportIcon from './icons/IconSupport.vue'
     <section class="headerb">
         <ul>
             <div class="dropdown">
+                <button class="dropbtn" style="color:red; font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ">YENİYIL</button>
+                <div class="dropdown-content">
+                    <div class="item1">
+                        <a href="#">Slim Fit Takım</a>
+                        <a href="#">Regular Takım</a>
+                        <a href="#">Smokin Takım</a>
+                        <a href="#">Klasik Takım </a>
+                        <a href="#">Geleneksel Takım </a>
+                        <a href="#">Yelekli Takım </a>
+                        <a href="#">Sade Takım</a>
+                        <a href="#">Modern Takım </a>
+                        <a href="#">Larch Takım </a>
+                        <a href="#">Sade Takım</a>
+                        <a href="#">Gri Takım Elbise</a>
+                        <a href="#">Siyah Takım Elbise</a>
+                        <a href="#">Bordo Takım Elbise</a>
+                        <a href="#">Mavi Takım Elbise</a>
+                        <a style="font-weignt:bold !important;" href="#">Tüm Ürünleri Gör > </a>
+                    </div>
+                    <div class="item1 img">
+                        <img src="https://kigili.akinoncdn.com/cms/2022/11/29/9cd445c9-3649-4d82-9a1b-96cfc5f638d9.png" alt="">
+                        <p style="margin-top:5px; font-weight:bold;font-size:18px;">Takım Elbise Sepetin Yarısı ></p>
+                        <p style="color:gray;">Kampanyadan yararlanın</p>
+                    </div>
+
+                </div>
+              </div>
+            <div class="dropdown">
                 <button class="dropbtn">Takım Elbise</button>
                 <div class="dropdown-content">
                     <div class="item1">
@@ -93,7 +121,7 @@ import SupportIcon from './icons/IconSupport.vue'
                 </div>
               </div>
               <div class="dropdown">
-                <button class="dropbtn">MONT & KABAN</button>
+                <button class="dropbtn">MONT</button>
                 <div class="dropdown-content">
                     <div class="item1">
                         <a href="#">Link sdaasd1</a>
@@ -233,7 +261,7 @@ import SupportIcon from './icons/IconSupport.vue'
                 </div>
               </div>
               <div class="dropdown">
-                <button class="dropbtn">AYAKKABI & AKSESUAR</button>
+                <button class="dropbtn">AYAKKABI</button>
                 <div class="dropdown-content">
                     <div class="item1">
                         <a href="#">Link sdaasd1</a>
